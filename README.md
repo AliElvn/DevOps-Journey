@@ -1,1 +1,1 @@
-# DevOps-Journey
+Automate today, scaling tomorrow.
