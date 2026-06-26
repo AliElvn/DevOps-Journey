@@ -2,16 +2,42 @@
 
 Welcome!
 
-This repository documents my journey to becoming a DevOps Engineer.
+This repository documents my journey from beginner to becoming a DevOps Engineer.
 
-Instead of only collecting notes, I'm documenting:
+---
 
-- Concepts
-- Labs
-- Projects
-- Commands
-- Mistakes
-- Lessons Learned
+## 🎯 Goals
 
-Goal:
-Become a professional DevOps Engineer.
+- Learn Linux
+- Master Git
+- Learn Docker
+- Learn Kubernetes
+- Build real-world DevOps projects
+
+---
+
+## 📚 Roadmap
+
+Current Progress:
+
+- 🟨 Foundations (In Progress)
+- ⬜ Containers
+- ⬜ CI/CD
+- ⬜ Cloud
+- ⬜ Monitoring
+
+---
+
+## 🛠 Repository Structure
+
+roadmap/
+linux/
+git/
+docker/
+projects/
+
+---
+
+## 📅 Started
+
+June 2026
